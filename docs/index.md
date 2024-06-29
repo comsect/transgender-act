@@ -2,7 +2,7 @@
 hide:
     - toc
     - navigation
-description: Home
+description: Introduction
 ---
 
 An Act to provide for protection of rights of transgender persons and their welfare and for matters connected therewith and incidental thereto.
